@@ -1,0 +1,105 @@
+* {
+    font-family: 'Helvetica', sans-serif;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
+    color: black;
+}
+
+#countrysearch {
+    font-size: 20px;
+}
+
+
+#countryname {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+img {
+    max-width: 50%;
+    height: auto;
+}
+
+#github {
+    background-color: #808080;
+    color: white;
+    padding: 10px;
+}
+
+
+.topnav {
+    overflow: hidden;
+    background-color: white;
+    color: black;
+    height: 50px;
+}
+
+.topnav a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #D3D3D3;
+    color: black;
+}
+
+
+form {
+    font-family: 'Helvetica', sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+}
+
+
+input {
+    font-family: 'Helvetica', sans-serif;
+    border: 1px solid #000000;
+    padding: 10px;
+    font-size: 15px;
+}
+
+button {
+    font-family: 'Helvetica', sans-serif;
+    border: 1px solid #000000;
+    font-size: 15px;
+    background-color: #D3D3D3;
+    padding: 10px;
+}
+
+.footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:11px;
+   width:100%;
+   background-color: white;
+   color: black;
+   font-size: 10px;
+   text-align: left;
+}
+
