@@ -6,7 +6,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 
 app.set('views', './views');
 app.set('view engine', 'pug');
-app.use(express.static('public')); // need this
+app.use(express.static('public'));
 
 
 
